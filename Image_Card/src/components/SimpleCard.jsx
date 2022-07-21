@@ -12,7 +12,7 @@ function SimpleCard()
             </div>
             <div className="flex-item-right">
                 <Title title="Employee of the Month"/>
-                <Description detail="This is an outstanding employee of the month.
+                <Description detail="An outstanding employee of the month.
                                     Kindly surprise her with something when you see her."/>
             </div>
         </div>
